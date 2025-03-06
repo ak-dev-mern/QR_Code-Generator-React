@@ -1,2 +1,8 @@
-# QR_Code Generator - React
- QR_Code Generator built with React allows users to easily create custom QR codes. Simply input text or a URL, and the app generates a scannable QR code in real-time. It’s lightweight, responsive, and user-friendly, providing a seamless experience across devices for quick and efficient QR code generation.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
